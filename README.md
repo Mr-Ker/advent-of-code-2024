@@ -16,3 +16,5 @@ it as input file.
 ## Run the tests
 
 `cargo test`
+
+test
